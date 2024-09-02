@@ -1,0 +1,80 @@
+.nav{
+    padding: 20px;
+}
+
+.toggle{
+    font-size: 20px;
+    margin-right: 50px;
+}
+
+.toggle:hover{
+    color: red;
+    cursor: pointer;
+}
+
+.youtube{
+    margin-right: 300px;
+}
+
+.youtube-icon{
+    font-size: 30px;
+    color: red;
+}
+
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.search-bar input{
+    width: 500px;
+    height: 40px;
+}
+
+.search-bar button{
+    width: 50px;
+    height: 44px;
+    font-size: 15px;
+    color: gray;
+}
+
+.main-content{
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+}
+
+.main-content img{
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 5px rgb(187, 185, 185);
+    transition: transform 0.2s,box-shadow 0.2s;
+}
+
+.main-content img:hover{
+    transform: translate(5px,-5px);
+    box-shadow: 6px 6px 6px 6px rgb(187, 185, 185);
+}
+
+.sidebar p{
+    font-size: 20px ;
+}
+
+.sidebar p:hover{
+    cursor: pointer;
+    color: red;
+}
+
+.videos{
+    display: flex;
+}
+
+.sec{
+    margin: 20px;
+}
+
+.sec:hover{
+    cursor: pointer;
+}
+
