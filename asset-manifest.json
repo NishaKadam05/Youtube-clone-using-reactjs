@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/css/main.105e2617.css",
+    "main.js": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/js/main.99b105d2.js",
+    "static/js/453.cf98d780.chunk.js": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/js/453.cf98d780.chunk.js",
+    "static/media/vid6.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid6.db9110d6ba6329084e52.png",
+    "static/media/vid4.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid4.a7a95f9edf8efb5239c6.png",
+    "static/media/vid8.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid8.abca698e711f5756a06e.png",
+    "static/media/vid2.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid2.49c38af3d17dac5198d2.png",
+    "static/media/vid5.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid5.8bf04c574b5654eca9b4.png",
+    "static/media/vid9.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid9.c632d7e2201ff6cfd518.png",
+    "static/media/vid11.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid11.2db165d8c388ae499ec6.png",
+    "static/media/vid10.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid10.c8ef3701ea581506fdd9.png",
+    "static/media/vid1.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid1.a6f7fc56aac06abd4f0f.png",
+    "static/media/vid12.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid12.630eed6a90fba8cf9df2.png",
+    "static/media/vid3.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid3.7adfd9f86f956cbb27d5.png",
+    "static/media/vid7.png": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/vid7.26ae535617eae48dbf19.png",
+    "static/media/logo.svg": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/index.html",
+    "main.105e2617.css.map": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/css/main.105e2617.css.map",
+    "main.99b105d2.js.map": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/js/main.99b105d2.js.map",
+    "453.cf98d780.chunk.js.map": "/NishaKadam05.github.io/Youtube-clone-using-reactjs/static/js/453.cf98d780.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.105e2617.css",
+    "static/js/main.99b105d2.js"
+  ]
+}
